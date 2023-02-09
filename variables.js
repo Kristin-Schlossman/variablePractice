@@ -13,14 +13,9 @@ var heightInCm = 152.4
  var fewLinesMade = true 
 //variables assigned to booleans
 
-debtIsPaid = true
-debtIsPaid // => true
-drankWater = false 
-drankWater // => false
-fewLinesMade = false 
-fewLinesMade // => false 
-// tactic used from lesson plan. What's the purpose of lines 9-14?
+marriedName = "Kristin Schloooooossman"
+middleName = "Nichole"
+//ressign String variables
 
-console.log(debtIsPaid)
-console.log(drankWater)
-console.log(fewLinesMade)
+console.log(marriedName);
+console.log(middleName);
