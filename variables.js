@@ -3,17 +3,15 @@
  var middleName = "Nicole"
  //variables assigned to Strings
 
+var age = 28
+var areaCode = 503
+var heightInCm = 152.4
+//variables assigned to Numbers
 
-
-
-
-
-
- //Booleans
  var debtIsPaid = false
  var drankWater = true
  var fewLinesMade = true 
-
+//variables assigned to booleans
 
 debtIsPaid = true
 debtIsPaid // => true
