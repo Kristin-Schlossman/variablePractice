@@ -1,9 +1,18 @@
+ var marriedName = "Kristin Schlossman"
+ var maidenName = "Kristin Grady"
+ var middleName = "Nicole"
+ //variables assigned to Strings
+
+
+
+
+
+
+
+ //Booleans
  var debtIsPaid = false
- debtIsPaid // => false
  var drankWater = true
- drankWater // => true
  var fewLinesMade = true 
-fewLinesMade // => true
 
 
 debtIsPaid = true
